@@ -19,5 +19,6 @@ This notebook is meant for educational use in the form of workshops, this is not
 
 To do this on the command line: 
 ```
-gcloud services enable language.googleapis.com, speechtotext.googleapis.com
+gcloud services enable speechtotext.googleapis.com
+gcloud services enable language.googleapis.com
 ```
